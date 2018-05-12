@@ -1,0 +1,17 @@
+LOGIN
+[-1,0,"lilito","asd"]
+[-1,0,"lili2","asd"]
+[-1,0,"lili","asd123"]
+
+CREATE_TABLE
+[-3,0,0]
+
+JOIN_TABLE
+[-4,0,?]
+
+START_GAME
+[2,?]
+
+GESTURE_CMD
+[257,?,0]
+
